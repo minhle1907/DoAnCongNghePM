@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+h3 {
+    padding: 15px;
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+    background-color: #01969c;
+}
+
+ul .admincp_list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.admincp_list li {
+    float: left;
+    margin: 5px;
+}
+
+.clear {
+    clear: both;
+}
+
+.wrapper {
+    padding-top: 10px;
+    border: 1px solid #000;
+    height: auto;
+    width: 90%;
+    margin: 10px auto;
+}
