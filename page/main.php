@@ -11,8 +11,10 @@
           include("main/LichHoc.php");
         }elseif($tam=='ThucDon'){
           include("main/ThucDon.php");
+        }elseif($tam=='BanTin'){
+          include("main/BanTin.php");
         }elseif($tam=='TuyenSinh'){
-          include("main/TuyenSinh.php");
+            include("main/TuyenSinh.php");
         }else{
           include('main/index.php');
         }

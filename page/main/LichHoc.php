@@ -1,6 +1,7 @@
 <div style="
   display: flex;
-    background-color: #ccccccb7;
+    background-image: url(/web_mysqli/images/LichHoc.jpg);
+    background-color: #FFDAB9;
     background-size: cover;
     background-position: center;
     height: 940px;
@@ -10,7 +11,7 @@
     border-color: rgb(138, 64, 121);
     border-style: solid;
 " id="cover">
-    <div style="padding: 15px;" id="content">
+    <div style="padding: 15px;" id="content1">
         <h1>Khối lớp mầm non An Lành giúp trẻ phát triển các mặt như: </h1>
         <h3><span>Phát Triển Xã Hội:<br></span>
           Học cách tương tác với bạn bè và giáo viên.
@@ -36,6 +37,9 @@
         <span>Phát Triển Kỹ Năng Âm Nhạc và Nghệ Thuật:<br></span>
           Tham gia vào các hoạt động nhạc và nghệ thuật để phát triển sở thích và kỹ năng sáng tạo.
           Lớp mầm non thường tập trung vào việc tạo ra môi trường học tập tích cực và hỗ trợ, nơi trẻ có thể phát triển toàn diện và chuẩn bị cho các cấp học tiếp theo.</h3>
-          <img style="padding: 90px;" src="/DoAnCNPM/GocCuaBe/LichHoc/asset/img/lichhoc.png" alt="Thời khóa biểu của bé">
+          <img style="height: 43vh;
+    width: 150vh;
+    padding-left: 5%;
+    padding-top: 20px;" src="/DoAnCNPM/GocCuaBe/LichHoc/asset/img/lichhoc.png" alt="Thời khóa biểu của bé">
     </div>  
 </div>

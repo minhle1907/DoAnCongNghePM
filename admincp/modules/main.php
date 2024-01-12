@@ -8,9 +8,8 @@
         }
         if($tam=='quanlidanhmuc'){
           include("modules/quanlidanhmuc/them.php");
-        // }elseif($tam=='quanlibaiviet'){
-        //   include("main/quanlibaiviet.php");
-        // }else
+        }elseif($tam=='quanlibaiviet'){
+          include("main/quanlibaiviet.php");
         }else{
           include('modules/dashboard.php');
         }

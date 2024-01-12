@@ -1,5 +1,5 @@
 <div id="nav">
-        <img src="/DoAnCNPM/Home/accset/img/mainlogo.png" alt="logo">
+        <img src="/web_mysqli/images/mainlogo.png" alt="logo">
         <ul class="nav_list">
           <li><a href="index.php"><i class="ti-home"></i>
              Trang Chủ
@@ -14,7 +14,7 @@
           </li>
           <li><a style="width: 125.5px;" href="#">Hoạt Động</a>
             <ul class="subnav">
-              <li><a href="">Bản tin </a></li>
+              <li><a href="index.php?quanli=BanTin">Bản tin </a></li>
               <li><a href="">Hình ảnh</a></li>
             </ul>
           </li>

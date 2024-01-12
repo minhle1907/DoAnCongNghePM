@@ -1,5 +1,16 @@
-<div id="cover">
-    <div id="content">
+<div  style="
+    background-image:url(/web_mysqli/images/backgroundThucDon.jpg);
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    height: 940px;
+    margin-left: 7%;
+    width: 85%;
+    border-radius: 10px;
+    border-color: rgb(138, 64, 121);
+    border-style: solid;
+" id="cover">
+    <div style="padding: 20px;" id="content1">
         <h3 style="color: red;font-weight: bold;">THỰC ĐƠN MẪU ĐẠT CHUẨN DINH DƯỠNG CHO TRƯỜNG MẦM NON</h3>
         <h5>Thực đơn hàng tuần của các bé tại trường mầm non luôn là mối quan tâm hàng đầu của các bậc phụ huynh và cả đội ngũ cán bộ nhân viên, quản lý trường. Một chế độ ăn uống đầy đủ chất dinh dưỡng theo độ tuổi của vé sẽ đảm bảo cho trẻ phát triển thể chất khỏe mạnh, sức khỏe và trí tuệ tốt để tham gia các hoạt động vui chơi và học tập.<br>Thực đơn của các trường mầm non cần đảm bảo 3 tiêu chí:</h5>
         <div class="list_text">
@@ -12,6 +23,6 @@
       <img style="padding-top: 10px;margin-left: 150px;" src="/DoAnCNPM/GocCuaBe/ThucDon/asset/img/under_2age.png" alt="Menu_under_2">
       <h5 style="text-decoration: underline;">Ở độ tuổi 3 - 5 tuổi</h5>
       <h5>tốc độ lớn vẫn còn cao, cân nặng. Nhu cầu các chất dinh dưỡng và năng lượng ở lứa tuổi này đã được khuyến nghị là: Nhu cầu năng lượng lứa tuổi này là 1600kcal tương ứng với lượng protein 36g khoảng 2-2,5 protein/kg cân nặng, protein động vật nên đạt 50% tổng số pro- tein.</h5>
-      <img style="height: 308px;width: 821px;padding-top: 10px;margin-left: 150px;" src="/DoAnCNPM/GocCuaBe/ThucDon/asset/img/over_2age.png" alt="">
+      <img style="height: 250px;width: 821px;padding-top: 10px;margin-left: 150px;" src="/DoAnCNPM/GocCuaBe/ThucDon/asset/img/over_2age.png" alt="">
     </div>  
   </div>

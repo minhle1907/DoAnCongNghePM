@@ -1,13 +1,13 @@
 <button id="scrollTopButton"><i class="ti-arrow-up"></i></button>
-      <!-- <div class="video_background">
+      <div class="video_background">
         <video  autoplay muted loop>
-          <source src="/DoAnCNPM/Home/accset/img/Trường Mầm Non An Lành.mp4" type="video/mp4">
+          <source src="/web_mysqli/images/videokid.mp4" type="video/mp4">
           Your browser does not support the video tag.
-      </video> -->
+      </video>
         <!-- End:video -->
       <div class="text_box">
         <h2 class="headline">Welcome to our <br>Independent Preschool Class  </h2>
-          <div class="signup"><a href="http://127.0.0.1:5500/DoAnCNPM/TuyenSinh/TuyenSinh.html">Đăng ký trực tuyến</a></div>
+          <div class="signup"><a href="index.php?quanli=TuyenSinh">Đăng ký trực tuyến</a></div>
       </div>
     </div>
     </div>
